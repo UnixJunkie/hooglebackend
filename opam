@@ -1,12 +1,11 @@
 opam-version: "1.2"
 name: "hooglebackend"
-version: "20170308"
 maintainer: "Thierry Martinez <martinez@nsup.org>"
 authors: "Thierry Martinez <martinez@nsup.org>"
-homepage: "https://packages.gforge.inria.fr"
-bug-reports: "https://packages.gforge.inria.fr/hooglebackend/tracker"
+homepage: "https://github.com/thierry-martinez/hooglebackend"
+bug-reports: "https://github.com/thierry-martinez/hooglebackend/issues"
+dev-repo: "https://github.com/thierry-martinez/hooglebackend.git"
 license: "GPL"
-dev-repo: "https://packages.gforge.inria.fr/hooglebackend.git"
 build: [
   [make]
 ]
